@@ -79,7 +79,7 @@
 1. 账户API
 
 - 功能：用于用户账户的登录
-- 请求地址： https://zhaobinglin.github.io/is_analysis_pages/page1.html
+- 请求地址： https://yutao996.github.io/is_analysis_pages/page1.html
 - 请求方法：POST
 - 请求参数：
 
@@ -116,7 +116,7 @@
 
 2. 用户API
 - 功能：获取用户信息
-- 请求地址： https://zhaobinglin.github.io/is_analysis_pages/index.html
+- 请求地址： https://yutao996.github.io/is_analysis_pages/index.html
 - 请求方法：GET
 - 请求参数：
 
