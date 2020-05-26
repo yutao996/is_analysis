@@ -70,7 +70,6 @@
 
 ## 2. 界面设计
 ## 2.1. 借书界面设计
-[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-jlCxqQzZ-1590458949545)(pic1.png)]
 - 用例图参见：用户登录
 - 类图参见：用户类，管理员类
 - 顺序图参见：用户登录顺序图
@@ -79,7 +78,7 @@
 1. 账户API
 
 - 功能：用于用户账户的登录
-- 请求地址： https://yutao996.github.io/is_analysis_pages/page1.html
+- 请求地址： https://yutao996.github.io/is_analysis/test5/ui/page1.html
 - 请求方法：POST
 - 请求参数：
 
@@ -116,7 +115,7 @@
 
 2. 用户API
 - 功能：获取用户信息
-- 请求地址： https://yutao996.github.io/is_analysis_pages/index.html
+- 请求地址： https://yutao996.github.io/is_analysis/test5/ui/index.html
 - 请求方法：GET
 - 请求参数：
 
